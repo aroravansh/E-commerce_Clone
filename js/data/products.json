@@ -1,16 +1,16 @@
 {
     "products": [{
             "id": 6,
-            "title": "Apple iPhone 11",
-            "image": "./images/products/iphone/iphone3.jpeg",
-            "price": 760,
+            "title": "Apple IPhone 12 Pro",
+            "image": "./images/products/iphone12pro.jpeg",
+            "price": 119999,
             "category": "Featured Products"
         },
 
         {
             "id": 3,
-            "title": "Sony WH-CH510",
-            "image": "./images/products/headphone/headphone2.jpeg",
+            "title": "Samsung Galaxy Note 20",
+            "image": "./images/products/samsung20.jpg",
             "price": 265,
             "category": "Special Products"
         },
